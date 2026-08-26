@@ -37,7 +37,7 @@ I build practical end-to-end solutions using **Python, SQL, Machine Learning, Da
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,sklearn,pandas,numpy,mysql,postgres,azure,aws,docker,git,github&perline=14" height="48" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,sklearn,mysql,postgres,azure,aws,docker,git&perline=11" height="60" />
 </p>
 
 <div align="center">
