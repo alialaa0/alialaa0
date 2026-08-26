@@ -4,34 +4,18 @@
 
 ### AI & Data Engineer
 
-**Artificial Intelligence · Machine Learning · Data Engineering · Business Intelligence**
+**Machine Learning · Data Engineering · Business Intelligence**
 
-Building end-to-end systems that turn **data into intelligent, actionable solutions.**
-
-<div align="center">
-
-# Ali Alaa Adel
-
-### AI & Data Engineer
-
-**Artificial Intelligence · Machine Learning · Data Engineering · Business Intelligence**
-
-Building end-to-end systems that turn **data into intelligent, actionable solutions.**
+Building practical end-to-end solutions across **AI, data pipelines, analytics, and intelligent systems.**
 
 <br>
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,cpp,mysql,azure,aws,docker,git,github,linux,sklearn,pytorch,tensorflow,anaconda,excel" />
+<a href="https://www.linkedin.com/in/3li-3laa/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
 </a>
-
-<br><br>
-
-<a href="https://gitascii.com">
-  <img
-    src="https://gitascii.com/api/alialaa0?v=1787758583126"
-    alt="Ali Alaa GitHub"
-    width="100%"
-  />
+&nbsp;
+<a href="mailto:alialaaaou@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white">
 </a>
 
 </div>
@@ -42,196 +26,69 @@ Building end-to-end systems that turn **data into intelligent, actionable soluti
 
 AI graduate with hands-on experience in **Industrial AI, Data Engineering, Machine Learning, and BI**.
 
-I work with **Python, SQL, Azure, Snowflake, Airflow, dbt, Power BI, and ML frameworks** to build practical end-to-end solutions.
+I build solutions using **Python, SQL, Azure, Snowflake, Airflow, dbt, Power BI, and ML frameworks**, with a focus on practical end-to-end systems.
 
 ---
 
-## 🛠️ Core Stack
+## 🛠️ Tech Stack
 
-**Languages**
-`Python` `SQL` `C++`
-
-**Data Engineering**
-`ETL/ELT` `Data Warehousing` `Data Modeling` `Airflow` `dbt` `Snowflake`
-
-**AI / ML**
-`Scikit-learn` `PyTorch` `TensorFlow` `Machine Learning` `Deep Learning`
-
-**Cloud & Infrastructure**
-`Azure` `AWS` `Docker` `Git`
-
-**BI & Analytics**
-`Power BI` `DAX` `Power Query` `Excel`
-
----
-
-# 🚀 Featured Projects
-
-### 🏺 [Spirit of ANKH](https://github.com/alialaa0/Spirit_of_Ankh)
-
-**AI-Powered Smart Tourism Intelligence Platform**
-
-End-to-end **Data Engineering + AI + BI** platform covering **45 tourist locations and 580K+ records**.
-
-`Python` `SQL` `Azure` `Snowflake` `Airflow` `Docker` `Scikit-learn` `Power BI`
-
-**ML:** Crowd prediction · **R² ≈ 0.88**
-**Architecture:** Bronze → Silver → Gold
-**Pipeline:** Data → ETL/ELT → DWH → ML → BI → AI Assistant
-
----
-
-### 🌸 [Ferns & Petals Data Analysis](https://github.com/alialaa0/Ferns_And_Petals_Data_Analysis_with_Excel)
-
-Interactive Excel analytics project focused on **sales performance, customer behavior, revenue, and business insights**.
-
-`Excel` `Power Query` `Power Pivot` `DAX` `Data Analysis`
-
----
-
-### 📊 [Sales Analysis — Creative Benha Bootcamp](https://github.com/alialaa0/Sales_Analysis_With_Excel_Creative_Benha_bootcamp)
-
-Interactive sales dashboard analyzing **revenue, returns, profitability, customer ratings, products, and branches**.
-
-`Excel` `Power Query` `Power Pivot` `DAX` `Data Modeling`
-
----
-
-## 💼 Experience
-
-**Industrial AI & Data Engineer Intern — Niotek**
-`Industrial AI` · `Data Engineering` · `Machine Learning` · `IoT` · `Edge AI`
-
-**Product Owner Intern — Zedny**
-`Product Development` · `Analytics` · `Market Research`
-
----
-
-## 🎓 Education
-
-**B.Sc. Computer Science — Artificial Intelligence**
-Arab Open University · 2026
-
-**Professional Training:**
-DEPI · NTI · Orange Digital Center
-
----
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,sklearn,mysql,azure,aws,snowflake,docker,git&perline=6" />
+</p>
 
 <div align="center">
 
-### 📈 GitHub Activity
+**Data Engineering**
+`ETL/ELT` · `Data Warehousing` · `Data Modeling` · `Apache Airflow` · `dbt`
 
-<img src="https://github-readme-stats.vercel.app/api?username=alialaa0&show_icons=true&hide_border=true&rank_icon=github" height="160"/>
+**Analytics & BI**
+`Power BI` · `DAX` · `Power Query` · `Excel`
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alialaa0&layout=compact&hide_border=true" height="160"/>
-
-<br><br>
-
-**AI · Data Engineering · Machine Learning · BI**
-
-<br>
-
-<a href="https://www.linkedin.com/in/3li-3laa/">Let's connect →</a>
-
-</div>
+**AI / ML**
+`Machine Learning` · `Deep Learning` · `Scikit-learn` · `PyTorch` · `TensorFlow`
 
 </div>
 
 ---
 
-## 👋 About
-
-AI graduate with hands-on experience in **Industrial AI, Data Engineering, Machine Learning, and BI**.
-
-I work with **Python, SQL, Azure, Snowflake, Airflow, dbt, Power BI, and ML frameworks** to build practical end-to-end solutions.
-
----
-
-## 🛠️ Core Stack
-
-**Languages**
-`Python` `SQL` `C++`
-
-**Data Engineering**
-`ETL/ELT` `Data Warehousing` `Data Modeling` `Airflow` `dbt` `Snowflake`
-
-**AI / ML**
-`Scikit-learn` `PyTorch` `TensorFlow` `Machine Learning` `Deep Learning`
-
-**Cloud & Infrastructure**
-`Azure` `AWS` `Docker` `Git`
-
-**BI & Analytics**
-`Power BI` `DAX` `Power Query` `Excel`
-
----
-
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
 ### 🏺 [Spirit of ANKH](https://github.com/alialaa0/Spirit_of_Ankh)
 
 **AI-Powered Smart Tourism Intelligence Platform**
 
-End-to-end **Data Engineering + AI + BI** platform covering **45 tourist locations and 580K+ records**.
+End-to-end **Data Engineering + AI + BI** platform with **580K+ records across 45 tourist locations**.
 
-`Python` `SQL` `Azure` `Snowflake` `Airflow` `Docker` `Scikit-learn` `Power BI`
+`Python` `SQL` `Snowflake` `Airflow` `Docker` `Azure` `Scikit-learn` `Power BI`
 
-**ML:** Crowd prediction · **R² ≈ 0.88**
-**Architecture:** Bronze → Silver → Gold
-**Pipeline:** Data → ETL/ELT → DWH → ML → BI → AI Assistant
+**Bronze → Silver → Gold → ML → BI**
+
+**Crowd prediction:** R² ≈ 0.88
 
 ---
 
 ### 🌸 [Ferns & Petals Data Analysis](https://github.com/alialaa0/Ferns_And_Petals_Data_Analysis_with_Excel)
 
-Interactive Excel analytics project focused on **sales performance, customer behavior, revenue, and business insights**.
+Interactive Excel analytics project covering **sales performance, revenue, customer behavior, and business insights**.
 
-`Excel` `Power Query` `Power Pivot` `DAX` `Data Analysis`
+`Excel` `Power Query` `Power Pivot` `DAX`
 
 ---
 
 ### 📊 [Sales Analysis — Creative Benha Bootcamp](https://github.com/alialaa0/Sales_Analysis_With_Excel_Creative_Benha_bootcamp)
 
-Interactive sales dashboard analyzing **revenue, returns, profitability, customer ratings, products, and branches**.
+Interactive sales dashboard analyzing **revenue, returns, profitability, ratings, products, branches, and cities**.
 
 `Excel` `Power Query` `Power Pivot` `DAX` `Data Modeling`
 
 ---
 
-## 💼 Experience
-
-**Industrial AI & Data Engineer Intern — Niotek**
-`Industrial AI` · `Data Engineering` · `Machine Learning` · `IoT` · `Edge AI`
-
-**Product Owner Intern — Zedny**
-`Product Development` · `Analytics` · `Market Research`
-
----
-
-## 🎓 Education
-
-**B.Sc. Computer Science — Artificial Intelligence**
-Arab Open University · 2026
-
-**Professional Training:**
-DEPI · NTI · Orange Digital Center
-
----
-
 <div align="center">
 
-### 📈 GitHub Activity
+### Let's build with data and AI.
 
-<img src="https://github-readme-stats.vercel.app/api?username=alialaa0&show_icons=true&hide_border=true&rank_icon=github" height="160"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alialaa0&layout=compact&hide_border=true" height="160"/>
-
-<br><br>
-
-**AI · Data Engineering · Machine Learning · BI**
-
-<br>
-
-<a href="https://www.linkedin.com/in/3li-3laa/">Let's connect →</a>
+<a href="https://www.linkedin.com/in/3li-3laa/">LinkedIn →</a>
+  ·   <a href="https://github.com/alialaa0">GitHub →</a>
+  ·   <a href="mailto:alialaaaou@gmail.com">Email →</a>
 
 </div>
