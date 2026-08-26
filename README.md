@@ -40,18 +40,18 @@ I build practical end-to-end solutions using **Python, SQL, Machine Learning, Da
   <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,sklearn,pandas,numpy,mysql,postgres,azure,aws,docker,git,github&perline=14" height="48" />
 </p>
 
-<p align="center">
+<div align="center">
 
-**Data Engineering:**
+**Data Engineering**
 `SQL` · `ETL/ELT` · `Data Warehousing` · `Data Modeling` · `Snowflake` · `Apache Airflow` · `dbt`
 
-**AI & Machine Learning:**
+**AI & Machine Learning**
 `Machine Learning` · `Deep Learning` · `PyTorch` · `TensorFlow` · `Scikit-learn`
 
-**Analytics & BI:**
+**Analytics & BI**
 `Power BI` · `DAX` · `Power Query` · `Excel` · `Data Visualization`
 
-</p>
+</div>
 
 ---
 
@@ -61,10 +61,9 @@ I build practical end-to-end solutions using **Python, SQL, Machine Learning, Da
 
 **AI-Powered Smart Tourism Intelligence Platform**
 
-An end-to-end **Data Engineering + AI + BI** platform covering **45 tourist locations and 580K+ historical records**.
+End-to-end **Data Engineering + AI + BI** platform covering **45 tourist locations and 580K+ historical records**.
 
-**Stack:**
-`Python` · `SQL` · `Snowflake` · `Azure` · `Airflow` · `Docker` · `Scikit-learn` · `Power BI`
+**Stack:** `Python` · `SQL` · `Snowflake` · `Azure` · `Airflow` · `Docker` · `Scikit-learn` · `Power BI`
 
 **Architecture:** `Bronze → Silver → Gold → ML → BI`
 
@@ -76,8 +75,7 @@ An end-to-end **Data Engineering + AI + BI** platform covering **45 tourist loca
 
 Interactive Excel analytics project focused on **sales performance, revenue, customer behavior, and business insights**.
 
-**Stack:**
-`Excel` · `Power Query` · `Power Pivot` · `DAX` · `Data Analysis`
+**Stack:** `Excel` · `Power Query` · `Power Pivot` · `DAX`
 
 ---
 
@@ -85,21 +83,16 @@ Interactive Excel analytics project focused on **sales performance, revenue, cus
 
 Interactive sales dashboard analyzing **revenue, returns, profitability, customer ratings, products, branches, and cities**.
 
-**Stack:**
-`Excel` · `Power Query` · `Power Pivot` · `DAX` · `Data Modeling`
+**Stack:** `Excel` · `Power Query` · `Power Pivot` · `DAX` · `Data Modeling`
 
 ---
 
 <div align="center">
 
-<br>
-
 **AI · Data Engineering · Machine Learning · Business Intelligence**
 
 <br><br>
 
-<a href="https://www.linkedin.com/in/3li-3laa/">
-  Let's connect →
-</a>
+<a href="https://www.linkedin.com/in/3li-3laa/">Let's connect →</a>
 
 </div>
