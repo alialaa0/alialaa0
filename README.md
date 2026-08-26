@@ -8,31 +8,6 @@
 
 Building end-to-end systems that turn **data into intelligent, actionable solutions.**
 
-<br>
-
-<a href="https://www.linkedin.com/in/3li-3laa/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
-</a>
-&nbsp;
-<a href="mailto:alialaaaou@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white">
-</a>
-&nbsp;
-<a href="https://github.com/alialaa0">
-  <img src="https://img.shields.io/badge/GitHub-Projects-181717?style=flat-square&logo=github&logoColor=white">
-</a>
-
-<br><br>
-
-<a href="https://gitascii.com">
-  <img
-    src="https://gitascii.com/api/alialaa0?v=1787758583126"
-    alt="Ali Alaa GitHub"
-    width="100%"
-  />
-</a>
-
-</div>
 
 ---
 
