@@ -1,103 +1,103 @@
 <div align="center">
 
-<a href="https://gitascii.com">
-  <img
-    src="https://gitascii.com/api/alialaa0?v=1787758583126"
-    alt="Ali Alaa - GitHub Profile"
-    width="100%"
-  />
-</a>
+# Ali Alaa
+
+**AI Engineer · Machine Learning · Computer Vision · Data Engineering**
+
+Building intelligent systems and data solutions with **Python, SQL, and modern AI & data technologies.**
 
 <br>
 
-# Ali Alaa
-
-### AI Engineer · Machine Learning · Computer Vision · Data Engineering
-
-<p>
-  <a href="https://www.linkedin.com/in/alialaa0/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white">
-  </a>
-</p>
+[LinkedIn](https://www.linkedin.com/in/alialaa0/) · [Portfolio](#) · [Email](mailto:your-email@example.com)
 
 </div>
 
 ---
 
-## 👋 About
+## 👨‍💻 About
 
-AI graduate from Egypt (2026) focused on building **practical AI and data solutions**.
+AI graduate from Egypt, focused on **AI/ML and Data Engineering**.
 
-I work across **Machine Learning, Computer Vision, Data Engineering, and BI**, with a focus on turning raw data into production-ready solutions.
+I build end-to-end projects across:
 
----
+`AI → ML → Computer Vision → Data Engineering → BI`
 
-## ⚡ Stack
-
-**Languages**
-
-`Python` `SQL` `C++`
-
-**AI / ML**
-
-`PyTorch` `TensorFlow` `Scikit-learn` `OpenCV` `Pandas` `NumPy`
-
-**Data Engineering**
-
-`ETL/ELT` `Data Warehousing` `Data Modeling` `Airflow` `Kafka` `Docker`
-
-**Cloud & BI**
-
-`Azure` `Microsoft Fabric` `Power BI` `DAX` `Excel`
+Currently interested in **AI Engineering, Computer Vision, Data Engineering, and Analytics**.
 
 ---
 
-## 🚀 Featured Projects
+## 🧰 Technologies
 
-| Project                   | What I built                                     |
-| ------------------------- | ------------------------------------------------ |
-| 🤖 **Computer Vision**    | Image classification pipeline with deep learning |
-| 🏗️ **Data Warehouse**    | End-to-end ETL → DWH → BI pipeline               |
-| 📊 **Business Analytics** | SQL + Power BI analytics dashboards              |
-| 🧠 **Machine Learning**   | End-to-end ML prediction pipeline                |
+<div align="center">
 
-👉 **Explore my repositories below ↓**
+<img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,sklearn,opencv,pandas,numpy,postgres,azure,docker,kafka,git,github&perline=7">
+
+<br><br>
+
+`SQL` · `Power BI` · `DAX` · `Excel` · `Airflow` · `Microsoft Fabric`
+
+</div>
+
+---
+
+## 🚀 Selected Work
+
+### 🤖 Computer Vision
+
+**Image Classification Pipeline**
+
+`Python` `PyTorch` `OpenCV`
+
+End-to-end image preprocessing, training, evaluation and inference.
+
+### 🏗️ Data Engineering
+
+**End-to-End Data Warehouse**
+
+`SQL` `ETL` `DWH` `Data Modeling` `Airflow` `Power BI`
+
+Source → Ingestion → Transformation → Warehouse → BI
+
+### 📊 Analytics
+
+**Business Intelligence Projects**
+
+`SQL` `Python` `Power BI` `DAX`
+
+Turning raw business data into interactive dashboards and insights.
+
+### 🧠 Machine Learning
+
+**Predictive ML Projects**
+
+`Python` `Scikit-learn` `Pandas` `NumPy`
+
+Data preprocessing → feature engineering → modeling → evaluation.
 
 ---
 
 ## 💼 Experience
 
-**Industrial AI Engineer Intern — Niotek Technology**
+**Industrial AI Engineer Intern · Niotek Technology**
 
-Computer Vision · Machine Learning · Industrial AI
+`Computer Vision` `Machine Learning` `Industrial AI`
 
 **AI & Data Science Training**
 
-DEPI · NTI · Orange Digital Center · Microsoft Fabric
-
----
-
-## 📊 GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=alialaa0&show_icons=true&hide_border=true&rank_icon=github" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alialaa0&layout=compact&hide_border=true" height="165"/>
-
-</div>
+`DEPI` · `NTI` · `Orange Digital Center` · `Microsoft Fabric`
 
 ---
 
 <div align="center">
 
-### Building with AI • Data • Engineering
+### 📊 GitHub Activity
 
-<a href="https://github.com/alialaa0">
-  <img src="https://img.shields.io/badge/Explore%20My%20Projects-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=alialaa0&show_icons=true&hide_border=true&rank_icon=github" height="160">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alialaa0&layout=compact&hide_border=true" height="160">
+
+<br><br>
+
+**Open to AI · ML · Computer Vision · Data Engineering opportunities**
 
 </div>
