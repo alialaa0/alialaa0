@@ -8,21 +8,18 @@
   />
 </a>
 
-<br/>
+<br>
 
 # Ali Alaa
 
-### AI & Data Engineer | Machine Learning | Computer Vision | Data Engineering
+### AI Engineer · Machine Learning · Computer Vision · Data Engineering
 
 <p>
   <a href="https://www.linkedin.com/in/alialaa0/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/alialaa0">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white">
   </a>
 </p>
 
@@ -30,187 +27,77 @@
 
 ---
 
-## 👋 About Me
+## 👋 About
 
-I'm an **Artificial Intelligence graduate (2026)** based in Egypt, focused on building practical solutions across **AI, Machine Learning, Computer Vision, Data Engineering, and Business Intelligence**.
+AI graduate from Egypt (2026) focused on building **practical AI and data solutions**.
 
-I enjoy working on projects that connect **data → engineering → intelligence → business value**, from data pipelines and warehouses to machine learning and computer vision applications.
-
-Currently, I'm focused on becoming a strong **production-ready AI & Data Engineer** through hands-on projects, real-world experience, and continuous learning.
+I work across **Machine Learning, Computer Vision, Data Engineering, and BI**, with a focus on turning raw data into production-ready solutions.
 
 ---
 
-## 🚀 Current Focus
+## ⚡ Stack
 
-```text
-AI / Machine Learning
-        ↓
-Computer Vision
-        ↓
-Data Engineering
-        ↓
-Data Warehousing & ETL
-        ↓
-Business Intelligence
-        ↓
-Production-ready Data & AI Systems
-```
+**Languages**
 
-* 🤖 Machine Learning & Computer Vision
-* 🏗️ Data Engineering & ETL/ELT
-* 🗄️ Data Warehousing & Data Modeling
-* 📊 Business Intelligence & Analytics
-* ☁️ Azure & Microsoft Fabric
-* ⚙️ Airflow, Docker & Kafka
-* 🧠 Building end-to-end AI & Data projects
+`Python` `SQL` `C++`
+
+**AI / ML**
+
+`PyTorch` `TensorFlow` `Scikit-learn` `OpenCV` `Pandas` `NumPy`
+
+**Data Engineering**
+
+`ETL/ELT` `Data Warehousing` `Data Modeling` `Airflow` `Kafka` `Docker`
+
+**Cloud & BI**
+
+`Azure` `Microsoft Fabric` `Power BI` `DAX` `Excel`
 
 ---
 
-# 🛠️ Technical Skills
+## 🚀 Featured Projects
 
-### 👨‍💻 Programming
+| Project                   | What I built                                     |
+| ------------------------- | ------------------------------------------------ |
+| 🤖 **Computer Vision**    | Image classification pipeline with deep learning |
+| 🏗️ **Data Warehouse**    | End-to-end ETL → DWH → BI pipeline               |
+| 📊 **Business Analytics** | SQL + Power BI analytics dashboards              |
+| 🧠 **Machine Learning**   | End-to-end ML prediction pipeline                |
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,sql" />
-</p>
-
-**Python · SQL · C++**
-
-### 🤖 AI / Machine Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
-</p>
-
-**PyTorch · TensorFlow · Scikit-learn · NumPy · Pandas**
-
-Machine Learning · Deep Learning · Computer Vision · Feature Engineering · Model Evaluation · Data Preprocessing
-
-### 📊 Data & Analytics
-
-<p>
-<img src="https://skillicons.dev/icons?i=azure" />
-</p>
-
-**Power BI · Excel · DAX · SQL · Data Analysis · Data Modeling**
-
-### 🏗️ Data Engineering
-
-**ETL / ELT · Data Warehousing · Data Modeling · Airflow · Kafka · Docker**
-
-**Azure · Microsoft Fabric · Data Pipelines**
-
-### 🗄️ Databases
-
-**SQL Server · PostgreSQL · Relational Databases · Data Warehouses**
+👉 **Explore my repositories below ↓**
 
 ---
 
-# 🔥 Featured Projects
+## 💼 Experience
 
-### 🤖 AI & Machine Learning
+**Industrial AI Engineer Intern — Niotek Technology**
 
-| Project                            | Technologies                   | Focus                |
-| ---------------------------------- | ------------------------------ | -------------------- |
-| **Computer Vision Classification** | Python · PyTorch · OpenCV      | Image classification |
-| **Financial Risk Prediction**      | Python · Scikit-learn · Pandas | ML classification    |
-| **Land Type Classification**       | Python · ML · Satellite Data   | Remote sensing       |
-| **Healthcare Prediction**          | Python · Scikit-learn          | Predictive modeling  |
+Computer Vision · Machine Learning · Industrial AI
 
-### 🏗️ Data Engineering & BI
+**AI & Data Science Training**
 
-| Project                       | Technologies               | Focus                 |
-| ----------------------------- | -------------------------- | --------------------- |
-| **End-to-End Data Warehouse** | SQL · ETL · DWH · Power BI | Data engineering      |
-| **Sales Analytics Dashboard** | Power BI · DAX · SQL       | Business intelligence |
-| **E-Commerce Analytics**      | Python · SQL · Power BI    | Analytics             |
-| **Marketing Analytics**       | Python · SQL · Power BI    | Business analytics    |
-
-> More projects are available in my repositories below.
+DEPI · NTI · Orange Digital Center · Microsoft Fabric
 
 ---
 
-# 💼 Experience & Training
-
-### Industrial AI Engineer Intern
-
-**Niotek Technology**
-
-Working on practical AI solutions for industrial environments, including **Computer Vision, machine learning, and intelligent systems**.
-
-### Data & AI Training
-
-* **DEPI — AI & Data Scientist Track**
-* **NTI — Machine Learning for Data Science**
-* **Orange Digital Center — Big Data Engineering**
-* **Microsoft Fabric / Power BI**
-* **Data Engineering & Cloud training**
-
----
-
-# 🏆 Certifications & Learning
-
-* Microsoft Fabric
-* Power BI
-* Azure Data Engineering
-* Machine Learning
-* Data Engineering
-* Cloud & Data Platforms
-
----
-
-# 📈 GitHub Activity
+## 📊 GitHub
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=alialaa0&show_icons=true&hide_border=true&rank_icon=github" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=alialaa0&show_icons=true&hide_border=true&rank_icon=github" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alialaa0&layout=compact&hide_border=true" height="180"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=alialaa0&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alialaa0&layout=compact&hide_border=true" height="165"/>
 
 </div>
 
 ---
 
-# 🧩 Tech Stack
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,sklearn,pandas,numpy,postgres,mysql,azure,docker,kafka,git,github&perline=7" />
-
-</div>
-
----
-
-# 📫 Let's Connect
-
-I'm interested in opportunities related to:
-
-**AI Engineering · Machine Learning · Computer Vision · Data Engineering · BI · Data Science**
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/alialaa0/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
-</a>
+### Building with AI • Data • Engineering
 
 <a href="https://github.com/alialaa0">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Explore%20My%20Projects-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
-
-</div>
-
----
-
-<div align="center">
-
-### Building with Data. Learning with AI. Engineering for Impact.
 
 </div>
