@@ -1,103 +1,134 @@
 <div align="center">
 
-# Ali Alaa
+# Ali Alaa Adel
 
-**AI Engineer · Machine Learning · Computer Vision · Data Engineering**
+### AI & Data Engineer
 
-Building intelligent systems and data solutions with **Python, SQL, and modern AI & data technologies.**
+**Artificial Intelligence · Machine Learning · Data Engineering · Business Intelligence**
+
+Building end-to-end systems that turn **data into intelligent, actionable solutions.**
 
 <br>
 
-[LinkedIn](https://www.linkedin.com/in/alialaa0/) · [Portfolio](#) · [Email](mailto:your-email@example.com)
-
-</div>
-
----
-
-## 👨‍💻 About
-
-AI graduate from Egypt, focused on **AI/ML and Data Engineering**.
-
-I build end-to-end projects across:
-
-`AI → ML → Computer Vision → Data Engineering → BI`
-
-Currently interested in **AI Engineering, Computer Vision, Data Engineering, and Analytics**.
-
----
-
-## 🧰 Technologies
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,sklearn,opencv,pandas,numpy,postgres,azure,docker,kafka,git,github&perline=7">
+<a href="https://www.linkedin.com/in/3li-3laa/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
+</a>
+&nbsp;
+<a href="mailto:alialaaaou@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white">
+</a>
+&nbsp;
+<a href="https://github.com/alialaa0">
+  <img src="https://img.shields.io/badge/GitHub-Projects-181717?style=flat-square&logo=github&logoColor=white">
+</a>
 
 <br><br>
 
-`SQL` · `Power BI` · `DAX` · `Excel` · `Airflow` · `Microsoft Fabric`
+<a href="https://gitascii.com">
+  <img
+    src="https://gitascii.com/api/alialaa0?v=1787758583126"
+    alt="Ali Alaa GitHub"
+    width="100%"
+  />
+</a>
 
 </div>
 
 ---
 
-## 🚀 Selected Work
+## 👋 About
 
-### 🤖 Computer Vision
+AI graduate with hands-on experience in **Industrial AI, Data Engineering, Machine Learning, and BI**.
 
-**Image Classification Pipeline**
+I work with **Python, SQL, Azure, Snowflake, Airflow, dbt, Power BI, and ML frameworks** to build practical end-to-end solutions.
 
-`Python` `PyTorch` `OpenCV`
+---
 
-End-to-end image preprocessing, training, evaluation and inference.
+## 🛠️ Core Stack
 
-### 🏗️ Data Engineering
+**Languages**
+`Python` `SQL` `C++`
 
-**End-to-End Data Warehouse**
+**Data Engineering**
+`ETL/ELT` `Data Warehousing` `Data Modeling` `Airflow` `dbt` `Snowflake`
 
-`SQL` `ETL` `DWH` `Data Modeling` `Airflow` `Power BI`
+**AI / ML**
+`Scikit-learn` `PyTorch` `TensorFlow` `Machine Learning` `Deep Learning`
 
-Source → Ingestion → Transformation → Warehouse → BI
+**Cloud & Infrastructure**
+`Azure` `AWS` `Docker` `Git`
 
-### 📊 Analytics
+**BI & Analytics**
+`Power BI` `DAX` `Power Query` `Excel`
 
-**Business Intelligence Projects**
+---
 
-`SQL` `Python` `Power BI` `DAX`
+# 🚀 Featured Projects
 
-Turning raw business data into interactive dashboards and insights.
+### 🏺 [Spirit of ANKH](https://github.com/alialaa0/Spirit_of_Ankh)
 
-### 🧠 Machine Learning
+**AI-Powered Smart Tourism Intelligence Platform**
 
-**Predictive ML Projects**
+End-to-end **Data Engineering + AI + BI** platform covering **45 tourist locations and 580K+ records**.
 
-`Python` `Scikit-learn` `Pandas` `NumPy`
+`Python` `SQL` `Azure` `Snowflake` `Airflow` `Docker` `Scikit-learn` `Power BI`
 
-Data preprocessing → feature engineering → modeling → evaluation.
+**ML:** Crowd prediction · **R² ≈ 0.88**
+**Architecture:** Bronze → Silver → Gold
+**Pipeline:** Data → ETL/ELT → DWH → ML → BI → AI Assistant
+
+---
+
+### 🌸 [Ferns & Petals Data Analysis](https://github.com/alialaa0/Ferns_And_Petals_Data_Analysis_with_Excel)
+
+Interactive Excel analytics project focused on **sales performance, customer behavior, revenue, and business insights**.
+
+`Excel` `Power Query` `Power Pivot` `DAX` `Data Analysis`
+
+---
+
+### 📊 [Sales Analysis — Creative Benha Bootcamp](https://github.com/alialaa0/Sales_Analysis_With_Excel_Creative_Benha_bootcamp)
+
+Interactive sales dashboard analyzing **revenue, returns, profitability, customer ratings, products, and branches**.
+
+`Excel` `Power Query` `Power Pivot` `DAX` `Data Modeling`
 
 ---
 
 ## 💼 Experience
 
-**Industrial AI Engineer Intern · Niotek Technology**
+**Industrial AI & Data Engineer Intern — Niotek**
+`Industrial AI` · `Data Engineering` · `Machine Learning` · `IoT` · `Edge AI`
 
-`Computer Vision` `Machine Learning` `Industrial AI`
+**Product Owner Intern — Zedny**
+`Product Development` · `Analytics` · `Market Research`
 
-**AI & Data Science Training**
+---
 
-`DEPI` · `NTI` · `Orange Digital Center` · `Microsoft Fabric`
+## 🎓 Education
+
+**B.Sc. Computer Science — Artificial Intelligence**
+Arab Open University · 2026
+
+**Professional Training:**
+DEPI · NTI · Orange Digital Center
 
 ---
 
 <div align="center">
 
-### 📊 GitHub Activity
+### 📈 GitHub Activity
 
-<img src="https://github-readme-stats.vercel.app/api?username=alialaa0&show_icons=true&hide_border=true&rank_icon=github" height="160">
+<img src="https://github-readme-stats.vercel.app/api?username=alialaa0&show_icons=true&hide_border=true&rank_icon=github" height="160"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alialaa0&layout=compact&hide_border=true" height="160">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alialaa0&layout=compact&hide_border=true" height="160"/>
 
 <br><br>
 
-**Open to AI · ML · Computer Vision · Data Engineering opportunities**
+**AI · Data Engineering · Machine Learning · BI**
+
+<br>
+
+<a href="https://www.linkedin.com/in/3li-3laa/">Let's connect →</a>
 
 </div>
